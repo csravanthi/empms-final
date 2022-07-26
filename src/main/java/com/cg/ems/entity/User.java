@@ -11,79 +11,32 @@ import javax.persistence.Table;
 /*
  
   
-  {
-	  "firstName": "string",
-	  "lastName": "string",
-	  "loginId": "string",
-	  "password": "string",
-	  "mobileNo": "string",
-	  "emailId": "string",
-	  "employee" :   {
-		    "employeeId": 3,
-		    "employeeName": "kiran",
-		    "gender": "Male",
-		    "age": 25,
-		    "department": {
-			    "departmenttId": 1,
-			    "departmentName": "HR",
-			    "totalNumberOfEmployee": 100,
-			    "employees": null,
-			    "projects": null
-			},
-		    "salary": {
-		        "salaryId": 3,
-		        "workinghours": "8",
-		        "overtime": "2",
-		        "total": "10",
-		        "details": "This is montly salary",
-		        "salaryDate": "2021-01-29"
-		    },
-		    "project": {
-		        "projectId": 1,
-		        "projectName": "X",
-		        "projectMaxHours": "34",
-		        "projectDescription": "op",
-		        "assignedDate": "2021-01-29",
-		        "lastDate": "2021-06-29"
-		    }
-		}
-   }
-   
+{
+	  "firstName": "virat",
+	  "lastName": "kohli",
+	  "loginId": "virat123",
+	  "password": "virat123",
+	  "mobileNo": "1234567890",
+	  "emailId": "virat@gmail.com",
+	  "employee" : {
+			"employeeId": 1
+	  }
+}
    ---------------------------------------
    
    
    {
-    "userId": 2,
-    "firstName": "string",
-    "lastName": "string",
-    "loginId": "string",
-    "password": "string",
-    "mobileNo": "string",
-    "emailId": "string",
-    "employee": {
-        "employeeId": 3,
-        "employeeName": "kiran",
-        "gender": "Male",
-        "age": 25,
-        "salary": {
-            "salaryId": 3,
-            "workinghours": "8",
-            "overtime": "2",
-            "total": "10",
-            "details": "This is montly salary",
-            "salaryDate": "2021-01-29"
-        },
-        "project": {
-            "projectId": 1,
-            "projectName": "X",
-            "projectMaxHours": "34",
-            "projectDescription": "op",
-            "assignedDate": "2021-01-29",
-            "lastDate": "2021-06-29"
-        }
-    }
+    "userId": 1,
+	  "firstName": "virat",
+	  "lastName": "kohli",
+	  "loginId": "virat123",
+	  "password": "virat123",
+	  "mobileNo": "1234567890",
+	  "emailId": "virat@gmail.com",
+	  "employee" : {
+		"employeeId": 1
+	  }
 }
-  
  */
 
 

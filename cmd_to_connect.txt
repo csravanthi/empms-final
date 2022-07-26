@@ -1,0 +1,1 @@
+ssh -i EmployeeManagmentSystemVM.pem ubuntu@ec2-3-208-88-137.compute-1.amazonaws.com
